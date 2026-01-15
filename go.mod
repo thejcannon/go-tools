@@ -1,4 +1,4 @@
-module golang.org/x/tools
+module github.com/thejcannon/go-tools
 
 go 1.24.0
 
