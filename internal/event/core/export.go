@@ -9,7 +9,7 @@ import (
 	"sync/atomic"
 	"time"
 
-	"golang.org/x/tools/internal/event/label"
+	"github.com/thejcannon/go-tools/internal/event/label"
 )
 
 // Exporter is a function that handles events.

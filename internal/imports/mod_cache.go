@@ -13,8 +13,8 @@ import (
 	"sync"
 
 	"golang.org/x/mod/module"
-	"golang.org/x/tools/internal/gopathwalk"
-	"golang.org/x/tools/internal/stdlib"
+	"github.com/thejcannon/go-tools/internal/gopathwalk"
+	"github.com/thejcannon/go-tools/internal/stdlib"
 )
 
 // To find packages to import, the resolver needs to know about all of

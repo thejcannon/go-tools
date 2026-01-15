@@ -21,8 +21,8 @@ import (
 	"strings"
 
 	"golang.org/x/telemetry/counter"
-	"golang.org/x/tools/internal/gocommand"
-	"golang.org/x/tools/internal/imports"
+	"github.com/thejcannon/go-tools/internal/gocommand"
+	"github.com/thejcannon/go-tools/internal/imports"
 )
 
 var (
